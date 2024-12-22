@@ -26,3 +26,13 @@ This project involves visualizing and analyzing medical examination data. The go
 
 #### Heatmap
 ![Heatmap](heatmap.png)
+
+---
+
+## License
+This repository is licensed under the MIT License. Feel free to use and modify the code as needed.
+
+---
+
+## Acknowledgements
+Special thanks to my learning platform and mentors for guiding me through these projects.
